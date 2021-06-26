@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+.vs/TravelLogMFD/v16/.suo
+*.db
+*.ipch
+Release/RCa08844
+*.log
+*.tlog
+*.res
+*.pdb
+*.filters
+*.user
+*.aps
